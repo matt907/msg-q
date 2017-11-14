@@ -6,9 +6,6 @@
 #define ARRAY_SIZE 150
 #define REPEATS 100000
 
-// Melissa Collins 11/10/17
-// Path for server: /home3/mcollins/cs311
-
 struct mess{
 	long mtype;
 	int nextInt;
