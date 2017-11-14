@@ -5,9 +5,6 @@
 #include <sys/ipc.h>
 #include <sys/msg.h>
 
-// Melissa Collins 11/10/17
-// Path for mult: /home3/mcollins/cs311
-
 struct mess{
 	long mtype;
 	int nextInt;
